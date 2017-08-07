@@ -1,0 +1,62 @@
+.poem {
+    text-align: center;
+    color: white;
+}
+
+#intro{
+    font-family: 'Bree Serif', serif;
+}
+
+#end {
+    color: goldenrod;
+    text-align: center;
+    margin-left: 1em;
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#back {
+    color: aqua;
+    text-align: center;
+    margin-left: 125px;
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+#pop {
+    font-size: 1.5em;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#less {
+    font-size: .85em;
+    color: paleturquoise;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+    background-image: url(https://static1.squarespace.com/static/53a7f7c1e4b032ddd6f9b6a8/53b06ac1e4b0a6a33f017845/53b145f6e4b0eb4097869a53/1404126738877/twbb_gray_lay_0002_m.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; 
+    height: 150%;
+}
+
+
+body main p {
+    color: crimson;
+    font-size: 3em;
+    text-align: center;
+    margin-left: 125px;
+    font-family: Impact;
+}
+
+p:nth-child(4) {
+    color: palevioletred;
+    font-size: .75em;
+}
+
+blockquote {
+    margin: 0;
+    padding: 0;
+}
